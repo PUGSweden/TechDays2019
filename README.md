@@ -3,7 +3,7 @@ Stuff from TechDays Sweden 2019
 
 Tävlingen är avgjord.
 
-Men vill man testa sig själv så kan man skicka svaren till:
+Men vill man testa sig själv på skoj så kan man skicka svaren till:
 
 Get(-)Crew(@)pugs(.)nu
 
@@ -23,3 +23,7 @@ Skriv t ex Tävling dag 1 som ämne och sedan t ex:
 10. 1,X eller 2
 
 Utslagsfråga: svar
+
+
+
+Svaren kommer att läggas upp 2019-10-28, så skicka svaren innan dess!
