@@ -1,2 +1,2 @@
 # TechDays2019
-Saker från TechDays 2019
+Stuff from TechDays Sweden 2019
