@@ -1,0 +1,37 @@
+1.	Vad heter PowerShells inbyggda kommandon?
+X	CMDLETS
+
+2.	När kom första versionen ut av PowerShell?
+2	2006
+
+3.	Vilket kommando använder man för att få hjälp?
+X	Get-Help
+
+4.	Uppbyggnaden av namnen på PowerShells kommandon bygger på?
+1	Verb och Substantiv
+
+5.	Senaste versionen av PowerShell som ingår i Windows 10 är?
+X	5.1
+ 
+6.	Vilket kommando använder man för att lista alla kommandon?
+1	Get-Command
+
+7.	Hur tar man reda på vilka Alias ett kommando har?
+X	Get-Alias -Definition kommandot
+
+8.	Var vi som användargrupp med på TechDays för 10 år sedan?
+2	JA, men då under namnet Scandinavia PowerShell User Group
+
+9.	Hur får jag reda på vilken version det är på PowerShell?
+X	Get-Host
+
+10.	Vad heter den inbyggda PowerShell editorn?
+1	PowerShell ISE
+
+Utslagsfråga:
+
+På vilken webbsida hittar man information om PowerShell User Group Sweden?
+https://pugs.nu
+
+Tävlingen sponsrades av:
+fredrikwall.se
