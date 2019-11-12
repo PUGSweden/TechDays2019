@@ -1,0 +1,37 @@
+1.	Vad hette PowerShell från början?
+1 	Monad
+
+2.	När började man utveckla PowerShell?
+X	2001
+
+3.	Kan man köra PowerShell på MAC idag?
+1	JA
+
+4.	Variabler börjar med?
+X	$
+
+5.	Finns PowerShell User Group Sweden på Twitter?
+1	JA, som @PowerShellUGS
+
+6.	Vilket kommando använder man för att lista metoder och egenskaper på ett objekt?
+X	Get-Member
+
+7.	Vad heter det man installerar/laddar för att utöka kommandon i PowerShell?
+1	Moduler
+
+8.	Hur får vi PowerShell att skriva små bokstäver i en sträng?
+X	$minString.ToLower()
+
+9.	Vad heter den nya PowerShell editorn som Microsoft vill att vi ska använda?
+2	Visual Studio Code
+
+10.	Var hittar vi PowerShell hjälpen online?
+2	docs.microsoft.com
+
+Utslagsfråga:
+
+Vad heter tjänsten på Internet där man kan spara sina skript med versionshantering som Microsoft köpte upp?
+GitHub
+
+Tävlingen sponsrades av:
+fredrikwall.se
